@@ -1,0 +1,6 @@
+anthropic>=0.25.0
+python-telegram-bot>=21.0
+feedparser>=6.0.10
+apscheduler>=3.10.0
+python-dotenv>=1.0.0
+pytz>=2024.1
